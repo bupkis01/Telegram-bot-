@@ -1,0 +1,6 @@
+{      
+  "Real Madrid": { "home": "⚪", "away": "🟣" },      
+  "Barcelona": { "home": "🔵", "away": "🔴" },      
+  "Manchester City": { "home": "🔵", "away": "⚪" },      
+  "Inter Milan": { "home": "⚫", "away": "🔵" }      
+}
